@@ -1,19 +1,26 @@
-# NLW eSports 
+# 🎮 Perfil Gamer 
+
+Projeto de página pessoal com temática gamer, desenvolvido para apresentar meus jogos favoritos, streamers que acompanho e minhas redes sociais. O objetivo foi criar uma interface interativa, responsiva e com visual moderno que represente minha identidade como gamer.
+
+## 🧩 Funcionalidades
+
+- 🎮 Seção com **meus jogos favoritos**
+- 📺 Lista de **canais e streamers** que acompanho
+- 🌐 Links para **redes sociais**
+- 🎨 Estilo visual neon com **tema escuro**
+- 💻 Design responsivo
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+## 📸 Preview
 
 ![preview](./.github/preview.png)
 
->trilha explorer
+## 🚀 Confira
 
-Projeto contruído no evento Next Level Week da Rocketseat.
-
-[🔗 clique aqui para acessar](https://bryan01santos.github.io/NFL-eSports-explorer/)
-
-## 🛠️ Tecnologias 
-
-- HTML
-- CSS
-- Git e Github
-
-## Contato
-
-✉️ bryan381santos@gmail.com
+1. Link: https://bryan01santos.github.io/NFL-eSports-explorer/
+ 
